@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "price": 19,
+    "image": "BestBook1",
+    "isFavorite": true
+  },
+  {
+    "id": 2,
+    "title": "Nineteen Eighty-Four",
+    "author": "George Orwell",
+    "price": 32,
+    "image": "BestBook2",
+    "isNew": true
+  },
+  {
+    "id": 3,
+    "title": "Metamorphoses",
+    "author": "Ovid",
+    "price": 44,
+    "image": "BestBook3",
+    "isFavorite": true    
+  },
+  {
+    "id": 4,
+    "title": "The Book of Disquiet",
+    "author": "Fernando Pessoa",
+    "price": 90,
+    "image": "BestBook4",
+    "isNew": true
+  },
+  {
+    "id": 5,
+    "title": "Tales",
+    "author": "Edgar Allan Poe",
+    "price": 99,
+    "image": "BestBook5",
+    "isFavorite": true
+  },
+  {
+    "id": 6,
+    "title": "In Search of Lost Time",
+    "author": "Marcel Proust",
+    "price": 35,
+    "image": "BestBook6",
+    "isNew": true
+  },
+  {
+    "id": 7,
+    "title": "Ramayana",
+    "author": "Valmiki",
+    "price": 25,
+    "image": "RecentBook1",
+    "isFavorite": true,
+  },
+  {
+    "id": 8,
+    "title": "The Aeneid",
+    "author": "Virgil",
+    "price": 15,
+    "image": "RecentBook2",
+    "isNew": true
+  },
+  {
+    "id": 9,
+    "title": "Mahabharata",
+    "author": "Vyasa",
+    "price": 35,
+    "image": "RecentBook3",
+    "isFavorite": true
+  },
+  {
+    "id": 10,
+    "title": "Leaves of Gras",
+    "author": "Walt Whitman",
+    "price": 20,
+    "image": "RecentBook4",
+    "isNew": true
+  },
+  {
+    "id": 11,
+    "title": "Mrs Dalloway",
+    "author": "Virginia Woolf",
+    "price": 35,
+    "image": "RecentBook5",
+    "isFavorite": true
+  },
+  {
+    "id": 12,
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "price": 15,
+    "image": "RecentBook6",
+    "isNew": true
+  }
+]
