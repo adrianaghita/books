@@ -53,7 +53,7 @@
     "author": "Valmiki",
     "price": 25,
     "image": "RecentBook1",
-    "isFavorite": true,
+    "isFavorite": true
   },
   {
     "id": 8,
